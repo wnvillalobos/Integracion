@@ -10,7 +10,7 @@ module Tarea2Api
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 6.1
-    $path = 'https://apihost.com/'
+    $path = 'https://pure-dawn-05862.herokuapp.com/'
 
     # Configuration for the application, engines, and railties goes here.
     #
